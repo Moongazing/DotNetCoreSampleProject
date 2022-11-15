@@ -1,0 +1,15 @@
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\Entites.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb

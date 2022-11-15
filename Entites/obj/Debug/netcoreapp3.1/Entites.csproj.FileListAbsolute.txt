@@ -1,0 +1,13 @@
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\bin\Debug\netcoreapp3.1\Entites.deps.json
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\bin\Debug\netcoreapp3.1\Entites.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\bin\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfoInputs.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfo.cs
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.CopyComplete

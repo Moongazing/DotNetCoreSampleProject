@@ -1,0 +1,10 @@
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Yön\Desktop\DotNetCoreSampleProject\DotNetSampleProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
