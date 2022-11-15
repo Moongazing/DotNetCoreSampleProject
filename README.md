@@ -1,4 +1,4 @@
-# DotNetCoreSampleProject
+# DotNetCore Back-End Project
 
 Technology and Tools
 
