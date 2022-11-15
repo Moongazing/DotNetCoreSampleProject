@@ -7,4 +7,7 @@ Technology and Tools
     EntityFramework Core
     N-Tier Architecture
     Nlog
+    Fluent Validation
+    Transaction
+    Autofac
 
